@@ -1,0 +1,24 @@
+body{
+	background-color: #adeecf;
+}
+h1{
+	color: #ff4646;
+}
+.tree{
+	background-color: yellow;
+
+}
+.circular{
+	border-radius: 100%;
+}
+#main{
+	color: blue;
+	font-size: 30px;
+}
+img:hover{
+	background-color: red;
+}
+
+p{
+	font-size: 20px;
+}
