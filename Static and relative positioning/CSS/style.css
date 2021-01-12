@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	background-color: #cdfffc;
+}
+.container{
+	background-color: red;
+	width: 100px;
+	height:100px;
+	
+
+}
+.middle{
+	background-color: blue;
+	width: 100px;
+	height:100px;
+	position: relative;
+	left: 100px;
+}
+.bottom
+{
+	background-color: green;
+	width: 100px;
+	height:100px;
+	position: relative;
+	left: 200px;
+}
